@@ -1,0 +1,7 @@
+# Acctualizmos el sistema recien instalado con los siguientes comando en el termina
+
+sudo apt-get update
+# Instertar la contraseña del equipo
+
+sudo apt-get upgrade
+# empieza actualizar el sistema y los software preinstalados
