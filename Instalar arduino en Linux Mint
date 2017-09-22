@@ -1,0 +1,37 @@
+# En la página oficial descargar el IDE acorde a la arquitectura de tu equipo
+# Para este caso, como ejemplo tomaré la versión 1.8.4 de 64 bits
+
+# Descargamos el archivo correspondiente (la version de Linux Mint es 18.2)
+# Descomprimir en la tuta descargada, por ejemplo trabajamo con la carpeta "Descargas"
+
+PRIMER METODO
+# Si la primera no funciona hacer lo siguiente
+# Abrir la terminal y digitar
+ls
+# para ver listado de carpetas y archivos
+
+# En m caso me dirijo a la siguiente ruta
+cd Descargas
+sudo mv arduino-1.8.4 /opt
+
+# sino te dirige a la opt ingresat el siguiente comando (cd /opt) sin las paréntesis
+ls
+cd arduino-1.8.4
+ls
+sudo ./install.sh
+
+
+SEGUNDO MÉTODO
+# Abrir la terminal y digitar
+ls
+# para ver listado de carpetas y archivos
+
+# En m caso me dirijo a la siguiente ruta
+cd Descargas
+ls
+cd arduino-1.8.4
+ls
+
+# Para en esta ruta digito el siguiente comando
+sudo ./install.sh
+# Ingreso la contraseña de equipo y esperar su instalación y listo
