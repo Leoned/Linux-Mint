@@ -4,3 +4,6 @@ sudo apt-get --purge remove "Nombre del programa"
 
 # por ejemplo
 sudo apt-get --purge remove okular
+
+# Luego teceamos otro comando
+sudo apt-get autoremove
