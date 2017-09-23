@@ -1,0 +1,6 @@
+# para desisntalar un programa usamos el siguiente comando en el terminal
+
+sudo apt-get --purge remove "Nombre del programa"
+
+# por ejemplo
+sudo apt-get --purge remove okular
