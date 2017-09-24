@@ -1,0 +1,9 @@
+# SMPlayer tiene la ventaja de reproducir videos de youtube sin necesidad de entrar por un buscador, para ello vamos a proceder a instalar de la siguiente manera
+sudo add-apt-repository ppa:rvm/smplayer
+sudo apt-get update
+sudo apt-get install smplayer smplayer-themes smplayer-skins
+
+# Ahora instalamos SMTube para ver los videos de yotube en el repoductor
+sudo add-apt-repository ppa:rvm/smplayer //Esto no es necesario si ya hiciste el paso anterior
+sudo apt-get update
+sudo apt-get install smtube
