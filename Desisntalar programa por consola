@@ -1,0 +1,5 @@
+// Para ello se inicia el temrinal tecleamos lo siguiente
+
+sdo apt-get --pure remove "programa"
+
+// Lo que dice "programa" es poner nombre del programa a desinstalar por ejemplo GIM
