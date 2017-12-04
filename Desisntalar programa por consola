@@ -3,3 +3,5 @@
 sdo apt-get --pure remove "programa"
 
 // Lo que dice "programa" es poner nombre del programa a desinstalar por ejemplo GIM
+
+// Luego tecleamos el siguiente comando para porder borrar las librerias y las dependencias del programa que hemos instalado y que ya no necestamos
