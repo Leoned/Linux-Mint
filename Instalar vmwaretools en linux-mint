@@ -1,0 +1,13 @@
+Primero hacer actualizar el sistema con el siguientes comando
+
+        sudo apt-get update
+luego
+        sudo apt-get upgrade
+        
+Para instalar el el vmawaretool usar el siguiente comando
+
+        sudo apt-get install open-vm-tools-desktop
+
+NOTA: Si estos comando no funciona, poner instalar vmware tool desde la barra de herramientas y
+cuando se monta el disco descomprimir el archivo tar en al escritorio y volver a repetir
+con los monados anteriores des la terminal.
