@@ -11,3 +11,7 @@ Para instalar el el vmawaretool usar el siguiente comando
 NOTA: Si estos comando no funciona, poner instalar vmware tool desde la barra de herramientas y
 cuando se monta el disco descomprimir el archivo tar en al escritorio y volver a repetir
 con los monados anteriores des la terminal.
+
+o tambie en nel descomprimido usar el siguiente comando
+
+        sudo ./vmware-instal.pl
