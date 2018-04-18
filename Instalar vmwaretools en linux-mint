@@ -15,3 +15,6 @@ con los monados anteriores des la terminal.
 o tambie en nel descomprimido usar el siguiente comando
 
         sudo ./vmware-instal.pl
+ojo: que con este ultimo comando puedes ver el archivo compatido en la siguiente ruta
+
+        "sistema/mn/hgfs" dentro de ella se ecuentra la carpeta que se comparte de windows a linux mint por vmware
